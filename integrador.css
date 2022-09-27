@@ -10,6 +10,9 @@ h2{
 h5{
     margin-bottom: 1.2rem !important;
 }
+h4{
+    margin: 1rem;
+}
 
 .card-title{
     text-align:left !important;
@@ -111,6 +114,7 @@ h5{
 
 .card-body-1{
     margin:1rem;
+    text-align:left;
  }
 
  .fondo{
@@ -121,6 +125,7 @@ h5{
  .boton3{
     color:white;
     padding: .4rem;
+    margin:1rem;
  }
 
  p{
@@ -150,6 +155,7 @@ h5{
     color:white;
     padding-top: 50%;;
  }
+ 
 
  a{ 
     text-decoration: none;
