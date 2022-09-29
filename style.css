@@ -60,7 +60,7 @@ h4{
 }
 
 .logo{
-    margin-left: 5rem;
+    padding-left: 5rem;
 }
 
 .card-text1{
@@ -88,24 +88,27 @@ h4{
     opacity: 50%;
 }
 
-.boton1{
-    
+.btn{
+   
+    text-align: left;
     border-radius: .5rem;
     color:white;
     border:lightgray solid .5px;
     font-size:1.1rem;
-    text-align: right;
-    margin-top: 80%;
    
 }
+ .btm2{
+    margin-left:70%;
+    border-radius: .5rem;
+    color:white;
+    border:lightgray solid .5px;
+    font-size:1.1rem;
 
-.boton2{
-    font-size:1rem;
-    margin-top: 80%;
-}
-
-.d-grid {
-    margin-left: 1441px;
+} 
+.d-grid1{
+    margin-top:20%;
+    margin-left:1000%;
+  
 }
 
 .botonColor{
@@ -153,7 +156,7 @@ h4{
 
  .nav-link-7{
     color:white;
-    padding-top: 50%;;
+    padding-top: 50%;
  }
  
 
@@ -203,6 +206,22 @@ h4{
         padding-top: 5%;
     }
   }
-  
-  
+ 
+
+    @media (min-width:820px) {
+        .d-grid1{
+            position:relative;
+        
+            
+        }
+        
+    }
+    @media (max-width:819px){
+        .d-grid1{
+            margin-left:500px;
+            padding-top:10%;
+        }
+    }
+    
+    
  
