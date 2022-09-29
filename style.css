@@ -216,12 +216,12 @@ h4{
         }
         
     }
-    @media (max-width:819px){
-        .d-grid1{
-            margin-left:500px;
-            padding-top:10%;
-        }
-    }
+  /*  */  @media (max-width:819px){
+   /*  */     .d-grid1{
+   /*  */         margin-left:500px;
+     /*  */       padding-top:10%;
+   /*  */     }
+  /*  */  }
     
     
  
