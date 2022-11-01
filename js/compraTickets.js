@@ -1,3 +1,5 @@
+
+
 const valorTicket=200
 const descEstudiante=80
 const descTrainee=50
